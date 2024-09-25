@@ -95,4 +95,4 @@ Last updated: 9/25
 - Most picked: Xin Zhao - 0
 - Most banned: Maokai - 3
 - Most deaths: Leona - 1
-- Highest win rate: ![Ahri](https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Ahri_OriginalSquare.png/revision/latest?cb=20230201172235) - 0/0
+- Highest win rate: ![Ahri](https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Ahri_OriginalSquare.png/revision/latest?cb=20230201172235 | width=30) - 0/0
