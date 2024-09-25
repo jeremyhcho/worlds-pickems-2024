@@ -91,10 +91,8 @@ Last updated: 9/25
 
 ## Hananomi
 
-Most roles: Poppy - 1
-Most picked: Xin Zhao - 0
-Most banned: Maokai - 3
-Most deaths: Leona - 1
-
-**Highest win rate**
-<span style="line-height:30px;"><img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Ahri_OriginalSquare.png/revision/latest?cb=20230201172235" height="30" width="30" style="vertical-align:middle;"> - 0/0</span>
+- Most roles: Poppy - 1
+- Most picked: Xin Zhao - 0
+- Most banned: Maokai - 3
+- Most deaths: Leona - 1
+- Highest win rate: <span style="line-height:30px;"><img src="https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/103.png" height="18" width="18"> - 0/0</span>
