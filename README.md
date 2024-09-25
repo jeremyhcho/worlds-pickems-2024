@@ -96,4 +96,4 @@ Last updated: 9/25
 - Most banned: Maokai - 3
 - Most deaths: Leona - 1
 
-Highest win rate: <span style="line-height:30px;"><img src="https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/103.png" height="24" width="24"> - 0/0</span>
+<span style="line-height:30px;">Highest win rate: <img src="https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/103.png" height="24" width="24"> - 0/0</span>
